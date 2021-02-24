@@ -1,4 +1,4 @@
-# Cable-Counter-Improvement-
+# Cable-Counter-
 Application to separate and count electrical cables used in a pulp mill
 
 # Contextualization
